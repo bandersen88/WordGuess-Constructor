@@ -11,7 +11,9 @@ and inquirer prompt to collect each letter guess unitl the word is completely gu
 Step 1) Launch the app by navigating to the direcotory and running it with.  This selects a random word a prints blank spaces for each letter.
 ```
 node index.js
-![Lookup Dates for A Band](img/img1.png)
+
 ```
+![Lookup Dates for A Band](img/img1.png)
+
 Step 2) Guess a letter.  If the letter matches a letter in the word, it will appear in the print out.  Continue guessing until you've completed the word.
 ![Concert Dates Returned](img/img2.png)
